@@ -3,7 +3,7 @@ Data Scientist Nanodegree project by Udacity
 
 
 ### Introduction:
-This repo contains my first hands-on experience in developing a Recommendation engine using IBM Watson Studio dataset.
+This repo contains my first experience in developing a Recommendation engine using IBM Watson Studio dataset.
 The objective is to recommend the articles to the user using various types of Recommendation engines. I analyze the interactions that users have with articles on the IBM Watson Studio platform.
 
 ### Contents:
