@@ -8,7 +8,9 @@ The objective is to recommend the articles to the user using various types of Re
 
 ### Contents:
 I. Exploratory Data Analysis
+
 II. Rank Based Recommendations
+
 III. User-User Based Collaborative Filtering
 IV. Matrix Factorization
 V. Extras & Concluding
